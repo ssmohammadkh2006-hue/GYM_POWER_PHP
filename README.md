@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you, I'm Mohamed Al-Nimrawi.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you, I'm Mohammad Al-Nimrawi.</h1>
 
 <p>Welcome to my page! </br> I'm Mohamed, Backend Developer specializing in <b>Python</b>, <b>Django</b>, and <b>PHP</b>. I have a basic understanding of <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</p>
 
